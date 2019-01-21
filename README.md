@@ -159,4 +159,4 @@ Check the reusing-backdrop branch about the error.
 
 Section 8, Lecture 141
 Try first alone in branch sidedrawer-toggle-button
-I tried to solve it with React.createContext() but it didn't work.
+I solve it with React.createContext() and an if statement in Layout.

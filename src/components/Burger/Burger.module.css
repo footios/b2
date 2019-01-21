@@ -10,6 +10,14 @@
   font-size: 1.2rem;
 }
 
+/* for the seeds to look as they should */
+@media (max-width: 499px) {
+  .Burger {
+    width: 75%;
+    height: 300px;
+  }
+}
+
 /* for portret mode */
 @media (min-width: 500px) and (min-height: 400px) {
   .Burger {
