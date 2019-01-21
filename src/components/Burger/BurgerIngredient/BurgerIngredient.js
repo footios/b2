@@ -36,6 +36,10 @@ class BurgerIngredient extends Component {
     return ingredient;
   }
 }
+// Reasons to use PropTypes:
+// working on a project which is going to get used by other people,
+// working on a third party library,
+// working in a developer team.
 
 BurgerIngredient.propTypes = {
   type: PropTypes.string.isRequired
