@@ -1,3 +1,5 @@
+Note: the BurgerBuilder.js is empty because this is a paid Udemy course
+
 ### git commit -m 'Adding a Sidedrawer Toggle Button'
 
 Section 8, Lecture 141
