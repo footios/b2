@@ -13,7 +13,8 @@ const sideDrawer = props => {
     attachedClasses = [classes.SideDrawer, classes.Open];
   }
 
-  //  className={[classes.SideDrawer, props.open ?
+  // from Q&A:
+  // className={[classes.SideDrawer, props.open ?
   // classes.Open : classes.Close].join(' ')}
   return (
     <Eject>

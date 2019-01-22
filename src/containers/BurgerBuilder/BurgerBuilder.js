@@ -87,10 +87,11 @@ class BurgerBuilder extends Component {
     const disabledInfo = {
       ...this.state.ingredients
     };
-    // Here we set the value to be true/false
+    // Here we assing to the value a boolean => true/false
     for (let key in disabledInfo) {
       disabledInfo[key] = disabledInfo[key] <= 0;
     }
+
     return (
       <Eject>
         <Modal
