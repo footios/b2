@@ -11,3 +11,7 @@ Improving Performance
 Section 8, Lecture 145
 
 Check the OrderSummary and Modal
+
+### git commit -m 'Changing the Folder Structure'
+
+Section 8, Lecture 147

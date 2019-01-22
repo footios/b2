@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Eject from "../../../hoc/Eject";
+import Eject from "../../../hoc/Eject/Eject";
 import Button from "../../UI/Button/Button";
 
 // Note: the Modal wraps the OrderSummary and that of course

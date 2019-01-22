@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import classes from "./Modal.module.css";
-import Eject from "../../../hoc/Eject";
+import Eject from "../../../hoc/Eject/Eject";
 import Backdrop from "../Backdrop/Backdrop";
 
 // child of BurgerBuilder
