@@ -15,3 +15,9 @@ Check the OrderSummary and Modal
 ### git commit -m 'Changing the Folder Structure'
 
 Section 8, Lecture 147
+
+# Section 9
+
+## Http / Ajax
+
+### Reaching out to the Web
